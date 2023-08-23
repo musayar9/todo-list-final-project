@@ -1,4 +1,13 @@
 
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(0,0,0,0.16);
+}
+
 .isCompleted{
   text-decoration: line-through;
 }
@@ -50,8 +59,8 @@
 
 /* İşaret simgesinin stilini ayarlama */
 .custom-checkbox input:checked ~ .checkbox-icon:after {
-    left: 7px;
-    top: 3px;
+    left: 7.2px;
+    top: 4px;
     width: 5px;
     height: 10px;
     border: solid white;
