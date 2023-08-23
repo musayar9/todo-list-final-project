@@ -1,7 +1,4 @@
 import React, { useState } from "react";
-// import { AiOutlineClose } from "react-icons/ai";
-
-// import { VscCheckAll, VscCheck, VscChecklist } from "react-icons/vsc";
 import AddTodo from "./AddTodo";
 import List from "./List";
 function TodoList() {
