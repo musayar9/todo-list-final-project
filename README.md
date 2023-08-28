@@ -5,9 +5,8 @@ In this project, I made a to-do list application. When we write an event to do a
 
 ### Technologies
 1. React
-2. Redux-Toolkit
-3. React-Icons
-4. Tailwindcss
+2. React-Icons
+3. Tailwindcss
 
 
 ### Developer
