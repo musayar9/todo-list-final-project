@@ -1,7 +1,12 @@
 ## Introduct
 
 I made this project with react. I made the design with tailwindcss. I used react-icons library for icons.
+
+
 In this project, I made a to-do list application. When we write an event to do and click the button, the event is added to the list. We may update this event. When the event is completed, click the checkbox and the event will be crossed out. When we click the Delete button, the event will be deleted.
+
+[ViewProject](https://todo-list-final-project.netlify.app/)
+
 
 ### Technologies
 1. React
