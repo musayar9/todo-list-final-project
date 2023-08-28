@@ -11,7 +11,7 @@ In this project, I made a to-do list application. When we write an event to do a
 
 
 ### Developer
-- Yazılımcı - [Musa Sayar]
+- Developer - [Musa Sayar]
 
 ### Contact
 
